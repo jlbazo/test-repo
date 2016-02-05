@@ -1,0 +1,10 @@
+git config --list
+git config --global user.name name
+git config --global user.email name
+
+git init
+git remote add origin https://github.com/...
+
+git clone https://
+
+git add -A
